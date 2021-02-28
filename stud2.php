@@ -1,4 +1,5 @@
 <?php
+
 class Stud {
     private $name;
     private $family;

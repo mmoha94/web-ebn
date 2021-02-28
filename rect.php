@@ -1,4 +1,5 @@
 <?php
+
 class Rect{
     private $tool;
     private $arz;
